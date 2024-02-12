@@ -1,5 +1,5 @@
 # Blog Website
-
+**Project Summary-** It is a personal blog website. <br />
 **Language-** HTML,CSS,JAVASCRIPT,BOOTSTRAP,DJANGO <br />
 **Tools-** Visual Studio Code, SQLite <br />
 
